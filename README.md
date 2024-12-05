@@ -1,7 +1,7 @@
 **About booking project:**
 
 
-120,000 users over a 12-hour period log in, create a booking, and search for the booking.That load test run individually 5min, 10min, 20min in Gaussian Random Timer. That actually done and no error was occurred.That ,eans load test is passed.
+120,000 users over a 12-hour period log in, create a booking, and search for the booking.That load test run individually 5min, 10min, 20min in Gaussian Random Timer. That actually done and no error was occurred.That means load test is passed.
 
 
 
