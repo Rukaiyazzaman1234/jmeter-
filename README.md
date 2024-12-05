@@ -6,15 +6,17 @@
 
 
 **Technology used:**
-Jmeter
-Postman
-Powershell/Comman prompt
-Visual studio code
-git
+
+-Jmeter
+-Postman
+-Powershell/Comman prompt
+-Visual studio code
+-git
 
 
 
 **How to run?**
+
 -Clone this project
 -Download those file
 -Import those in jmeter
@@ -23,6 +25,7 @@ git
 
 
 **Booking project**
+
 
 -Booking load test request summary and statistics screenshot:
 https://drive.google.com/file/d/1G7durf6sy1rpICIA1bg4Wj0z6525LTOc/view?usp=sharing
@@ -42,6 +45,8 @@ https://docs.google.com/spreadsheets/d/1TJ5IYKvSPvy0YNhVGlo1g1t4Plc53JngUmGjpmtZ
 
 
 **About booking project**
+
+
 In that project 5 agents perform deposits for 10 customers, 5 customers send money to another 10 customers, 5 customers make payments to 2 merchants
 First of all log in as an admin once and have to generate a token to use for each of the threads. There have 3 threads for each type of
 transaction and have the CSV files of agent, customer, and merchant accounts. Those user can successfully can deposit, send money and payment within 1200 seconds.
@@ -50,11 +55,11 @@ transaction and have the CSV files of agent, customer, and merchant accounts. Th
 
 
 **Technology used:**
-Jmeter
-Postman
-Powershell/Comman prompt
-Visual studio code
-git
+-Jmeter
+-Postman
+-Powershell/Comman prompt
+-Visual studio code
+-git
 
 
 
