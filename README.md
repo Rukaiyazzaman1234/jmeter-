@@ -25,7 +25,8 @@
 # Booking load test request summary and statistics screenshot:
 
 
-https://drive.google.com/file/d/1G7durf6sy1rpICIA1bg4Wj0z6525LTOc/view?usp=sharing
+![image](https://github.com/user-attachments/assets/4b18330a-d9b5-4abf-a4d0-366876c643b5)
+
 
 
 # Booking Load test Excel file:
