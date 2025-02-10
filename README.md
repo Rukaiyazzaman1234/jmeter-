@@ -88,8 +88,8 @@ https://drive.google.com/file/d/1JFJk_6wDlGEgAGElCoLm1ZTkUw_mNPS1/view?usp=shari
 
 
 # dmoney statistics screenshot:
+![image](https://github.com/user-attachments/assets/cbd10954-5481-4322-8965-f11744733442)
 
-https://drive.google.com/file/d/1tCPwfpD4GJs5c20VkEZpPfkAMxKoq_Zn/view?usp=sharing
 
 
 
